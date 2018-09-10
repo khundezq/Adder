@@ -9,7 +9,7 @@ class Adder {
         x = sc.nextInt();
         System.out.print("enter y = ");
         y = sc.nextInt();
-        z = x+y;
+        z = x-y;
         System.out.println("z = " + z);
 
 
